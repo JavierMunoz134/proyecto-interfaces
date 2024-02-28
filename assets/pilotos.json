@@ -1,0 +1,79 @@
+{
+    "pilotos": [
+      {
+        "nombre": "Lewis",
+        "apellidos": "Hamilton",
+        "escuderia": "Mercedes",
+        "nacionalidad": "Reino Unido",
+        "edad": 39,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/hamilton.jpg.img.1920.medium.jpg/1708362076344.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Max",
+        "apellidos": "Verstappen",
+        "escuderia": "Red Bull Racing",
+        "nacionalidad": "Países Bajos",
+        "edad": 27,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/verstappen.jpg.img.1920.medium.jpg/1708344264039.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Fernando",
+        "apellidos": "Alonso",
+        "escuderia": "Aston Martin",
+        "nacionalidad": "España",
+        "edad": 43,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/alonso.jpg.img.1920.medium.jpg/1708344615576.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Alexander",
+        "apellidos": "Albon",
+        "escuderia": "Williams",
+        "nacionalidad": "Tailandia",
+        "edad": 28,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/albon.jpg.img.1920.medium.jpg/1708362042590.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      }
+      ,
+      {
+        "nombre": "Valtteri",
+        "apellidos": "Bottas",
+        "escuderia": "Kick Sauber",
+        "nacionalidad": "Finlandia",
+        "edad": 35,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/bottas.jpg.img.1920.medium.jpg/1708448661324.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      }
+      ,
+      {
+        "nombre": "Pierre",
+        "apellidos": "Gasly",
+        "escuderia": "Alpine",
+        "nacionalidad": "Francia",
+        "edad": 28,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/gasly.jpg.img.1920.medium.jpg/1708344393640.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      },
+      {
+        "nombre": "Charles",
+        "apellidos": "Leclerc",
+        "escuderia": "Ferrari",
+        "nacionalidad": "Mónaco",
+        "edad": 26,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/leclerc.jpg.img.1920.medium.jpg/1708344558637.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Monaco.jpg"
+      }
+      ,
+      {
+        "nombre": "Carlos",
+        "apellidos": "Sainz",
+        "escuderia": "Ferrari",
+        "nacionalidad": "España",
+        "edad": 30,
+        "foto": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/sainz.jpg.img.1920.medium.jpg/1708344524647.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Spain.jpg"
+      }
+    ]
+  }

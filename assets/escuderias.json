@@ -1,0 +1,58 @@
+{
+    "escuderias": [
+      {
+        "nombre": "Mercedes-AMG Petronas Formula One Team",
+        "base": "Brackley, United Kingdom",
+        "jefe": "Toto Wolff",
+        "motor": "Mercedes",
+        "campeonatos": 7,
+        "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mercedes.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg"
+      },
+      {
+        "nombre": "Red Bull Racing",
+        "base": "Milton Keynes, United Kingdom",
+        "jefe": "Christian Horner",
+        "motor": "Honda",
+        "campeonatos": 4,
+        "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg"
+      },
+      {
+        "nombre": "Scuderia Ferrari",
+        "base": "Maranello, Italy",
+        "jefe": "Mattia Binotto",
+        "motor": "Ferrari",
+        "campeonatos": 16,
+        "foto": "https://media.formula1.com/content/dam/fom-website/teams/Ferrari/logo-ferrari-18%20.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/italy-flag.png.transform/2col/image.png"
+      },
+      {
+        "nombre": "McLaren F1 Team",
+        "base": "Woking, United Kingdom",
+        "jefe": "Zak Brown",
+        "motor": "Mercedes",
+        "campeonatos": 8,
+        "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mclaren.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg"
+      },
+      {
+        "nombre": "Aston Martin Cognizant Formula One Team",
+        "base": "Silverstone, United Kingdom",
+        "jefe": "Otmar Szafnauer",
+        "motor": "Mercedes",
+        "campeonatos": 0,
+        "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/aston%20martin%202024.jpg",
+        "bandera": "https://media.formula1.com/content/dam/fom-website/flags/Great-Britain.jpg"
+      },
+      {
+        "nombre": "Alpine F1 Team",
+        "base": "Enstone, United Kingdom",
+        "jefe": "Laurent Rossi",
+        "motor": "Renault",
+        "campeonatos": 2,
+        "foto": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/alpine.jpg",
+        "bandera": "https://media.formula1.com/d_default_fallback_image.png/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg"
+      }
+    ]
+  }
